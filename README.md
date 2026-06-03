@@ -1,31 +1,20 @@
 # Hi, I'm Monier Ashraf Monier Lawande 👋
 
-## Data Engineer | Big Data Engineer | Master's Researcher
+## Data Engineer | Big Data & Apache Spark | M.Sc. Researcher
 
-I work on data engineering, big data systems, and distributed data processing.
+I focus on data engineering, big data systems, and distributed data processing.
 
-My focus is building practical data pipelines using Apache Spark, Hadoop, SQL, NoSQL databases, Docker, and cloud-based data platforms.
-
-I am currently pursuing a Master's in Informatics at Nile University, where my research focuses on bringing SQL `MATCH_RECOGNIZE`-style row pattern recognition to Python DataFrames.
+My work involves Apache Spark, Hadoop, SQL/NoSQL databases, Docker, and cloud-based data platforms. I am also pursuing my M.Sc. in Informatics at Nile University, where my research focuses on SQL `MATCH_RECOGNIZE`-style row pattern recognition for Python DataFrames.
 
 ---
 
-## What I Work With
+## Technical Focus
 
 **Languages:** Python, Java, SQL  
-**Big Data:** Spark, PySpark, Spark SQL, Spark Structured Streaming, Hadoop, HDFS, MapReduce, Hive, HBase  
+**Big Data:** Apache Spark, PySpark, Spark SQL, Spark Structured Streaming, Hadoop, HDFS, MapReduce, Hive, HBase  
 **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra  
-**Tools:** Docker, Git, Linux, Databricks  
-**Data Concepts:** ETL/ELT, Data Warehousing, Data Modeling, Query Optimization, Performance Tuning
-
----
-
-## Selected Work
-
-- Built batch and streaming data pipelines using Spark, Hadoop, PostgreSQL, and Docker.
-- Developed Hadoop MapReduce jobs for large-scale batch processing and aggregation.
-- Worked on Spark workload optimization using partitioning, caching, broadcast joins, and Spark SQL.
-- Designed a Python DataFrame-based framework inspired by SQL `MATCH_RECOGNIZE` for sequential row pattern analytics.
+**Tools & Platforms:** Docker, Git, Linux, Databricks, AWS S3, Delta Lake  
+**Core Areas:** ETL/ELT, Batch Processing, Stream Processing, Data Warehousing, Data Modeling, Query Optimization, Performance Tuning
 
 ---
 
